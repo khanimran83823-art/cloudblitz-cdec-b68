@@ -137,3 +137,4 @@ An **IP address** uniquely identifies a device on a network.
 | Examples       | HTTP, HTTPS, SSH              | DNS, VoIP              |
 
 ---
+<img width="1467" height="602" alt="image" src="https://github.com/user-attachments/assets/ef4eb13e-7737-49e4-a35e-b3b877d2766d" />
