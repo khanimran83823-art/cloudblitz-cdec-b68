@@ -73,5 +73,12 @@ fdisk  /dev/nvme1n1
 
 
 
+## Delete 
+<img width="723" height="256" alt="image" src="https://github.com/user-attachments/assets/3e7921c4-de0d-48d7-9fe9-2430f8577b77" />
+<img width="682" height="253" alt="image" src="https://github.com/user-attachments/assets/3c4a8451-182a-475c-8492-40d9a89cfc64" />
+
+
+
+
 
 
