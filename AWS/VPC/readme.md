@@ -45,3 +45,7 @@
 <img width="1916" height="582" alt="image" src="https://github.com/user-attachments/assets/b937f37d-a7ae-4c5b-aeaf-9892523876cc" />
 <img width="1916" height="687" alt="image" src="https://github.com/user-attachments/assets/c2fad372-bea3-4aad-84f3-d75a9704cc27" />
 <img width="1918" height="580" alt="image" src="https://github.com/user-attachments/assets/5b928be8-405e-4927-bd94-0a2a13a0ac5d" />
+
+
+# vpc resource map
+<img width="1855" height="672" alt="image" src="https://github.com/user-attachments/assets/afecd120-4fe3-4e04-8502-1f0f30d45711" />
