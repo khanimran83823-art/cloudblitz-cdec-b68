@@ -1,3 +1,22 @@
+<img width="946" height="467" alt="image" src="https://github.com/user-attachments/assets/3cd0524e-6c8c-48ab-b09a-4a11bb51b548" />
+Scaling is something that we need to consider thoroughly when designing a system. Scaling simply means increasing the capacity as needed when our system grows. 
+There are two ways to scale.
+
+**Vertical Scaling**
+**Horizontal Scaling**
+
+
+# AutoScaling
+Autoscaling is a cloud computing technique that dynamically adjusts computational resources—such as 
+CPU, memory, or the number of active server instances—to match real-time demand. 
+By automatically scaling out (adding) or in (removing) resources based on performance metrics like CPU usage, 
+it ensures consistent application performance while minimizing costs
+
+<img width="1005" height="328" alt="image" src="https://github.com/user-attachments/assets/309426f5-f185-467d-abd8-11b666cd31c1" />
+
+
+---
+
 # create an launch template
 <img width="1650" height="660" alt="image" src="https://github.com/user-attachments/assets/fcef89ac-b057-474c-a127-ac73299c3a0f" />
 
