@@ -7,7 +7,9 @@
 
 ###  step1:  select template and give name to asg
 <img width="1908" height="622" alt="image" src="https://github.com/user-attachments/assets/a9bfe17c-38ca-49b6-a4f4-3ea22a47102a" />
+
 ###  step2: in network section select az's
+
 <img width="1503" height="554" alt="image" src="https://github.com/user-attachments/assets/7e8385f7-fd6d-470f-a737-7a71b285fdaf" />
 ###  step3: integration with other services(NO)
 <img width="1558" height="643" alt="image" src="https://github.com/user-attachments/assets/da57a62e-083b-4198-a00c-0947056271e7" />
