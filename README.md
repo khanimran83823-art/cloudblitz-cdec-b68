@@ -93,7 +93,7 @@ The **Software Development Life Cycle (SDLC)** is a structured process used to d
   * Faster and reliable releases
 * DevOps bridges the gap between **developers** and **operations teams**
 
-![Image](https://www.manageengine.com/products/service-desk/images/devops-lifecycle-diagram.png)
+
 
 ---
 <img width="1383" height="617" alt="image" src="https://github.com/user-attachments/assets/03a22eb8-05e9-43ac-bed2-7b73b9acf4c7" />
